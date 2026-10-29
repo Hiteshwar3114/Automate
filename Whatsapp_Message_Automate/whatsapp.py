@@ -13,7 +13,7 @@ from selenium.common.exceptions import TimeoutException, WebDriverException
 # CONFIGURATION
 # ============================================================
 
-MESSAGE = "Oyee Chinnu I Love You So Much"
+MESSAGE = "DEMO TEST" #Type the message that is required
 INTERVAL_SECONDS = 60
 MAX_MESSAGES = 400
 
