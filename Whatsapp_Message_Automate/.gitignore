@@ -1,0 +1,32 @@
+
+# WhatsApp and Chrome session data
+chrome_whatsapp_profile/
+.chrome-profile/
+user-data/
+
+# Logs
+*.log
+whatsapp_scheduler.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
